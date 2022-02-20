@@ -1,4 +1,4 @@
-<div style="text-align: middle"> 왼쪽 </div>
+<div style="text-align: right">
 
 ### Hi there 👋
 
