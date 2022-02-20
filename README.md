@@ -5,7 +5,9 @@
 <p align="center"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> </p> <br>
   
   
-<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsckdduq&theme=dracula) </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thsckdduq&repo=github-readme-stats&theme=dracula" />
+</a>
 
 
 <!--
