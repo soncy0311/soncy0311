@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
+
+
 <!--
 **thsckdduq/thsckdduq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
