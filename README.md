@@ -25,6 +25,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **External Activity** | 2021.8~4 | [Year Dream School](http://yeardream.kr/) | **[중소벤처기업진흥공단](http://kosmes.or.kr/)** |
+<br>
 
 ### 🏆 Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
