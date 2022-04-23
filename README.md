@@ -32,7 +32,7 @@
 ### 🏆 Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2022.2~4 | [Happy Whale - Whale and Dolphin](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Image Classification/ 🥈 47th out of 1,588 teams | **Kaggle** |
+| **Competition** | 2022.2~4 | [HappyWhale - whale and dolphin](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Image Classification/ 🥈 47th out of 1,588 teams | **Kaggle** |
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsckdduq&count_private=false&theme=dracula)
