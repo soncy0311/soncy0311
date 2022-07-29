@@ -51,7 +51,7 @@
 ### 🏆 Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2022.2~4 | [HappyWhale - whale and dolphin](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Image Classification/ 🥈 47th out of 1,588 teams | **Kaggle** |
+| **Competition** | 2022.2~4 | [HappyWhale - whale and dolphin](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Image Classification/</br> 🥈 47th out of 1,588 teams | **Kaggle** |
 | **Competition** | 2022.2~7 | [Ubiquent Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Tabular Data Prediction /</br> 🥉 117th out of 2,893 teams | **Kaggle** |
 
 
