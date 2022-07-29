@@ -11,6 +11,7 @@
 - Data Analysis: <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 - Language/Tool: <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 - Statistic Tool: <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="./img/SAS.png?style=flat-square" height='20px' /> <img src="./img/SPSS.png?style=flat-square" height='20px' />
+- Cooperation: <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 <br>
 
 ### 🤩 I'm interested in
@@ -20,6 +21,24 @@
 - Computer Vision
     - Object Detection
     - Optical Character Recognition
+- Recommendation
+    - E-commerce data
+    - Session based recommendation
+    - Next Basket recommendation
+- NLP
+    - Next Sentence Prediction
+    - Text Generation
+<br>
+
+### 🔭 Career
+
+**FridaysLab** (Data Scientist) / 2022.5 ~
+ - Growth marketing
+ - E-commerce data analysis
+ - Recommendation 
+    - Cross Selling
+    - Next Basket Prediction
+ - Code Optimization
 <br>
 
 ### 🕋 Learning
@@ -33,6 +52,7 @@
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Competition** | 2022.2~4 | [HappyWhale - whale and dolphin](https://www.kaggle.com/competitions/happy-whale-and-dolphin/overview) | Open Set Image Classification/ 🥈 47th out of 1,588 teams | **Kaggle** |
+| **Competition** | 2022.2~7 | [Ubiquent Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Tabular Data Prediction /</br> 🥉 117th out of 2,893 teams | **Kaggle** |
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsckdduq&count_private=false&theme=dracula)
