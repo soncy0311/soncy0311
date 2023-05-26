@@ -39,6 +39,7 @@
     - Cross Selling
     - Next Basket Prediction
  - Code Optimization
+ - Develop the fuction for non-parametic test
 <br>
 
 ### 🕋 Learning
