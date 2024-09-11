@@ -1,6 +1,9 @@
 ## 🎇Chang-Yup Son
 <br>
 
+<img align="center" src="https://github-readme-stats-eight-chi-94.vercel.app/api?username=soncy0311&totalContributions=true&theme=dracula">
+<br>
+
 ### 📩 Contact
 - Email. thsckdduq@gmail.com
 <br>
@@ -57,8 +60,7 @@
 | **Competition** | 2022.2~7 | [Ubiquent Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Tabular Data Prediction </br> 🥉 117th out of 2,893 teams | **Kaggle** |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soncy0311&count_private=false&theme=dracula)
-<br>
+
 
 <!--
 **thsckdduq/thsckdduq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
