@@ -57,7 +57,7 @@
 | **Competition** | 2022.2~7 | [Ubiquent Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction) | Tabular Data Prediction </br> 🥉 117th out of 2,893 teams | **Kaggle** |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsckdduq&count_private=false&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soncy0311&count_private=false&theme=dracula)
 <br>
 
 <!--
