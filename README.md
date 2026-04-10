@@ -7,6 +7,7 @@
 
 ### Contact
 - Email. thsckdduq@gmail.com
+- LinkedIn. [Chang-Yup Son](https://www.linkedin.com/in/chang-yup-son)
 <br>
 
 ### Tech Stack
