@@ -30,7 +30,7 @@
 
 ### Career
 
-**AboveTech** (AI Engineer & Product Planner) / 2024.2 ~
+**AboveTech** (AI Engineer & Product Planner) / 2024.2 ~ 2026.6
 - wevemet: 얼굴 분석 기반 헤어 컨설팅 서비스
   - 이미지 분석 모델 평가, RAG 기반 컨설팅 결과 생성
 - 젠디: 명리학 기반 사주 컨설팅 서비스
